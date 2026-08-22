@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:50:02.388Z",
+  "updated_at": "2026-08-22T13:50:02.389Z",
   "characters": {
     "Ark Ludgero": {
       "level": 977,
@@ -46,12 +46,6 @@
           "level": 927,
           "killed_by": "rootthing nutshell",
           "reason": "Died at Level 927 by rootthing nutshell"
-        },
-        {
-          "time": "2026-07-23T03:43:03.000Z",
-          "level": 926,
-          "killed_by": "quara raider",
-          "reason": "Died at Level 926 by quara raider"
         }
       ]
     },
