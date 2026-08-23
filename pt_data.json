@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T12:50:02.398Z",
+  "updated_at": "2026-08-23T13:50:02.398Z",
   "characters": {
     "Ark Ludgero": {
       "level": 977,
@@ -40,12 +40,6 @@
           "level": 937,
           "killed_by": "two-headed turtle",
           "reason": "Died at Level 937 by two-headed turtle"
-        },
-        {
-          "time": "2026-07-23T23:17:09.000Z",
-          "level": 927,
-          "killed_by": "rootthing nutshell",
-          "reason": "Died at Level 927 by rootthing nutshell"
         }
       ]
     },
