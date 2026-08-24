@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T11:50:02.404Z",
+  "updated_at": "2026-08-24T12:50:02.405Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 977,
+      "level": 978,
       "vocation": "Elite Knight",
       "deaths": [
         {
@@ -26,7 +26,7 @@
       ]
     },
     "King Flipz": {
-      "level": 1005,
+      "level": 1006,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -44,7 +44,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 864,
+      "level": 865,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -80,7 +80,7 @@
       ]
     },
     "Seu Homem": {
-      "level": 851,
+      "level": 852,
       "vocation": "Elder Druid",
       "deaths": [
         {
