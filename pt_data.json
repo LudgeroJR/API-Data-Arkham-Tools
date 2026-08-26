@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:50:02.422Z",
+  "updated_at": "2026-08-26T20:50:02.422Z",
   "characters": {
     "Ark Ludgero": {
       "level": 981,
@@ -26,7 +26,7 @@
       ]
     },
     "King Flipz": {
-      "level": 1010,
+      "level": 1011,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -47,6 +47,12 @@
       "level": 871,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-08-26T20:46:23.000Z",
+          "level": 873,
+          "killed_by": "liodile",
+          "reason": "Died at Level 873 by liodile"
+        },
         {
           "time": "2026-08-21T14:31:10.000Z",
           "level": 864,
