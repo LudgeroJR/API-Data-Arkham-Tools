@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T19:07:43.695Z",
+  "updated_at": "2026-08-27T20:07:43.695Z",
   "characters": {
     "Ark Ludgero": {
       "level": 984,
@@ -89,6 +89,12 @@
       "level": 855,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-08-27T19:14:52.000Z",
+          "level": 855,
+          "killed_by": "mean lost soul",
+          "reason": "Died at Level 855 by mean lost soul"
+        },
         {
           "time": "2026-08-04T01:00:45.000Z",
           "level": 826,
