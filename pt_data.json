@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T01:07:43.697Z",
+  "updated_at": "2026-08-28T02:07:43.696Z",
   "characters": {
     "Ark Ludgero": {
       "level": 984,
@@ -44,9 +44,15 @@
       ]
     },
     "Monk Tunado": {
-      "level": 875,
+      "level": 874,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-08-28T01:24:11.000Z",
+          "level": 875,
+          "killed_by": "the scourge of oblivion",
+          "reason": "Died at Level 875 by the scourge of oblivion"
+        },
         {
           "time": "2026-08-26T20:46:23.000Z",
           "level": 873,
