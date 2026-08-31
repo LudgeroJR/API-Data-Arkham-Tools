@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:54:12.186Z",
+  "updated_at": "2026-08-31T23:54:12.186Z",
   "characters": {
     "Ark Ludgero": {
       "level": 991,
@@ -26,9 +26,15 @@
       ]
     },
     "King Flipz": {
-      "level": 1018,
+      "level": 1017,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-08-31T23:03:06.000Z",
+          "level": 1019,
+          "killed_by": "squid warden",
+          "reason": "Died at Level 1019 by squid warden"
+        },
         {
           "time": "2026-08-02T19:19:11.000Z",
           "level": 957,
