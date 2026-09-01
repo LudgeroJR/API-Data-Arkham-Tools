@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:54:12.187Z",
+  "updated_at": "2026-09-01T13:08:49.109Z",
   "characters": {
     "Ark Ludgero": {
       "level": 991,
@@ -10,18 +10,6 @@
           "level": 949,
           "killed_by": "field item",
           "reason": "Died at Level 949 by field item"
-        },
-        {
-          "time": "2026-08-01T15:12:04.000Z",
-          "level": 944,
-          "killed_by": "haunted hunter",
-          "reason": "Died at Level 944 by haunted hunter"
-        },
-        {
-          "time": "2026-08-01T14:56:26.000Z",
-          "level": 945,
-          "killed_by": "enthralled dragon",
-          "reason": "Died at Level 945 by enthralled dragon"
         }
       ]
     },
@@ -91,39 +79,62 @@
         }
       ]
     },
-    "Seu Homem": {
-      "level": 857,
+    "Joga Sujin": {
+      "level": 726,
       "vocation": "Elder Druid",
+      "deaths": []
+    },
+    "Andireb": {
+      "level": 811,
+      "vocation": "Royal Paladin",
       "deaths": [
         {
-          "time": "2026-08-27T19:14:52.000Z",
-          "level": 855,
-          "killed_by": "mean lost soul",
-          "reason": "Died at Level 855 by mean lost soul"
+          "time": "2026-08-31T23:33:47.000Z",
+          "level": 813,
+          "killed_by": "field item",
+          "reason": "Died at Level 813 by field item"
         },
         {
-          "time": "2026-08-04T01:00:45.000Z",
-          "level": 826,
-          "killed_by": "walking dread",
-          "reason": "Died at Level 826 by walking dread"
+          "time": "2026-08-31T23:02:50.000Z",
+          "level": 814,
+          "killed_by": "icecold book",
+          "reason": "Died at Level 814 by icecold book"
         },
         {
-          "time": "2026-08-02T21:39:46.000Z",
-          "level": 824,
-          "killed_by": "rootthing bug tracker",
-          "reason": "Died at Level 824 by rootthing bug tracker"
+          "time": "2026-08-30T22:48:17.000Z",
+          "level": 812,
+          "killed_by": "gloom maw",
+          "reason": "Died at Level 812 by gloom maw"
         },
         {
-          "time": "2026-08-01T21:36:35.000Z",
-          "level": 819,
-          "killed_by": "walking dread",
-          "reason": "Died at Level 819 by walking dread"
+          "time": "2026-08-28T18:56:36.000Z",
+          "level": 806,
+          "killed_by": "adult goanna",
+          "reason": "Died at Level 806 by adult goanna"
         },
         {
-          "time": "2026-08-01T15:01:14.000Z",
-          "level": 815,
-          "killed_by": "haunted hunter",
-          "reason": "Died at Level 815 by haunted hunter"
+          "time": "2026-08-28T01:23:35.000Z",
+          "level": 804,
+          "killed_by": "the scourge of oblivion",
+          "reason": "Died at Level 804 by the scourge of oblivion"
+        },
+        {
+          "time": "2026-08-24T16:25:52.000Z",
+          "level": 788,
+          "killed_by": "boar man",
+          "reason": "Died at Level 788 by boar man"
+        },
+        {
+          "time": "2026-08-17T20:23:31.000Z",
+          "level": 784,
+          "killed_by": "freakish lost soul",
+          "reason": "Died at Level 784 by freakish lost soul"
+        },
+        {
+          "time": "2026-08-05T03:20:57.000Z",
+          "level": 770,
+          "killed_by": "lizard high guard",
+          "reason": "Died at Level 770 by lizard high guard"
         }
       ]
     }
