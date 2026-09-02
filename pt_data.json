@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-09-02T12:08:48.329Z",
+  "updated_at": "2026-09-02T13:08:48.328Z",
   "characters": {
     "Ark Ludgero": {
       "level": 992,
       "vocation": "Elite Knight",
-      "deaths": [
-        {
-          "time": "2026-08-02T21:07:23.000Z",
-          "level": 949,
-          "killed_by": "field item",
-          "reason": "Died at Level 949 by field item"
-        }
-      ]
+      "deaths": []
     },
     "King Flipz": {
       "level": 1019,
@@ -22,12 +15,6 @@
           "level": 1019,
           "killed_by": "squid warden",
           "reason": "Died at Level 1019 by squid warden"
-        },
-        {
-          "time": "2026-08-02T19:19:11.000Z",
-          "level": 957,
-          "killed_by": "bone bear",
-          "reason": "Died at Level 957 by bone bear"
         }
       ]
     },
@@ -64,18 +51,6 @@
           "level": 860,
           "killed_by": "bone bear",
           "reason": "Died at Level 860 by bone bear"
-        },
-        {
-          "time": "2026-08-02T21:38:24.000Z",
-          "level": 820,
-          "killed_by": "rootthing bug tracker",
-          "reason": "Died at Level 820 by rootthing bug tracker"
-        },
-        {
-          "time": "2026-08-02T19:06:34.000Z",
-          "level": 820,
-          "killed_by": "walking dread",
-          "reason": "Died at Level 820 by walking dread"
         }
       ]
     },
