@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T01:08:48.331Z",
+  "updated_at": "2026-09-03T02:08:48.332Z",
   "characters": {
     "Ark Ludgero": {
       "level": 993,
@@ -61,9 +61,16 @@
       ]
     },
     "Joga Sujin": {
-      "level": 734,
+      "level": 733,
       "vocation": "Elder Druid",
-      "deaths": []
+      "deaths": [
+        {
+          "time": "2026-09-03T01:29:27.000Z",
+          "level": 734,
+          "killed_by": "burning book",
+          "reason": "Died at Level 734 by burning book"
+        }
+      ]
     },
     "Andireb": {
       "level": 817,
