@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T17:08:48.335Z",
+  "updated_at": "2026-09-03T18:08:48.336Z",
   "characters": {
     "Ark Ludgero": {
       "level": 994,
@@ -73,9 +73,15 @@
       ]
     },
     "Andireb": {
-      "level": 818,
+      "level": 816,
       "vocation": "Royal Paladin",
       "deaths": [
+        {
+          "time": "2026-09-03T17:23:35.000Z",
+          "level": 818,
+          "killed_by": "raubritter skirmisher",
+          "reason": "Died at Level 818 by raubritter skirmisher"
+        },
         {
           "time": "2026-08-31T23:33:47.000Z",
           "level": 813,
