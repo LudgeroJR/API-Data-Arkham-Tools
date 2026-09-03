@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-02T23:08:48.330Z",
+  "updated_at": "2026-09-03T00:08:48.331Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 992,
+      "level": 993,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1019,
+      "level": 1020,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -19,9 +19,15 @@
       ]
     },
     "Monk Tunado": {
-      "level": 880,
+      "level": 879,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-09-02T23:52:49.000Z",
+          "level": 880,
+          "killed_by": "squid warden",
+          "reason": "Died at Level 880 by squid warden"
+        },
         {
           "time": "2026-08-28T01:24:11.000Z",
           "level": 875,
