@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:08:48.343Z",
+  "updated_at": "2026-09-04T13:08:48.343Z",
   "characters": {
     "Ark Ludgero": {
       "level": 996,
@@ -123,12 +123,6 @@
           "level": 784,
           "killed_by": "freakish lost soul",
           "reason": "Died at Level 784 by freakish lost soul"
-        },
-        {
-          "time": "2026-08-05T03:20:57.000Z",
-          "level": 770,
-          "killed_by": "lizard high guard",
-          "reason": "Died at Level 770 by lizard high guard"
         }
       ]
     }
