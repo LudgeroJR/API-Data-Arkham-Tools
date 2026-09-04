@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04T10:08:48.342Z",
+  "updated_at": "2026-09-04T11:08:48.343Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 995,
+      "level": 996,
       "vocation": "Elite Knight",
       "deaths": []
     },
@@ -61,7 +61,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 735,
+      "level": 736,
       "vocation": "Elder Druid",
       "deaths": [
         {
