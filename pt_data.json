@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06T20:08:48.357Z",
+  "updated_at": "2026-09-06T21:08:48.356Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1001,
+      "level": 1002,
       "vocation": "Elite Knight",
       "deaths": []
     },
@@ -19,7 +19,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 885,
+      "level": 886,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 741,
+      "level": 743,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -76,6 +76,12 @@
       "level": 828,
       "vocation": "Royal Paladin",
       "deaths": [
+        {
+          "time": "2026-09-06T20:45:01.000Z",
+          "level": 829,
+          "killed_by": "mercurial menace",
+          "reason": "Died at Level 829 by mercurial menace"
+        },
         {
           "time": "2026-09-05T22:24:29.000Z",
           "level": 826,
