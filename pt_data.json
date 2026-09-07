@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-07T19:08:48.369Z",
+  "updated_at": "2026-09-07T20:08:48.369Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1003,
+      "level": 1004,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1028,
+      "level": 1027,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-09-07T19:40:16.000Z",
+          "level": 1028,
+          "killed_by": "shrieking cry-stal",
+          "reason": "Died at Level 1028 by shrieking cry-stal"
+        },
         {
           "time": "2026-08-31T23:03:06.000Z",
           "level": 1019,
@@ -19,7 +25,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 888,
+      "level": 889,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -61,7 +67,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 747,
+      "level": 749,
       "vocation": "Elder Druid",
       "deaths": [
         {
