@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:08:48.370Z",
+  "updated_at": "2026-09-07T22:08:48.371Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1004,
@@ -67,9 +67,15 @@
       ]
     },
     "Joga Sujin": {
-      "level": 749,
+      "level": 748,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-09-07T21:54:25.000Z",
+          "level": 749,
+          "killed_by": "infernal demon",
+          "reason": "Died at Level 749 by infernal demon"
+        },
         {
           "time": "2026-09-03T01:29:27.000Z",
           "level": 734,
@@ -79,9 +85,15 @@
       ]
     },
     "Andireb": {
-      "level": 831,
+      "level": 830,
       "vocation": "Royal Paladin",
       "deaths": [
+        {
+          "time": "2026-09-07T21:54:22.000Z",
+          "level": 831,
+          "killed_by": "infernal demon",
+          "reason": "Died at Level 831 by infernal demon"
+        },
         {
           "time": "2026-09-06T20:45:01.000Z",
           "level": 829,
@@ -135,12 +147,6 @@
           "level": 788,
           "killed_by": "boar man",
           "reason": "Died at Level 788 by boar man"
-        },
-        {
-          "time": "2026-08-17T20:23:31.000Z",
-          "level": 784,
-          "killed_by": "freakish lost soul",
-          "reason": "Died at Level 784 by freakish lost soul"
         }
       ]
     }
