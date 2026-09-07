@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:08:48.371Z",
+  "updated_at": "2026-09-07T23:08:48.371Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1004,
@@ -7,9 +7,15 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1027,
+      "level": 1025,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-09-07T22:59:39.000Z",
+          "level": 1027,
+          "killed_by": "icecold book",
+          "reason": "Died at Level 1027 by icecold book"
+        },
         {
           "time": "2026-09-07T19:40:16.000Z",
           "level": 1028,
