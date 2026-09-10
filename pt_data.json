@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-10T00:08:48.384Z",
+  "updated_at": "2026-09-10T01:08:48.384Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1005,
+      "level": 1006,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1026,
+      "level": 1024,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-09-10T00:30:53.000Z",
+          "level": 1026,
+          "killed_by": "stalking stalk",
+          "reason": "Died at Level 1026 by stalking stalk"
+        },
         {
           "time": "2026-09-07T22:59:39.000Z",
           "level": 1027,
@@ -73,7 +79,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 755,
+      "level": 757,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -91,7 +97,7 @@
       ]
     },
     "Andireb": {
-      "level": 832,
+      "level": 834,
       "vocation": "Royal Paladin",
       "deaths": [
         {
