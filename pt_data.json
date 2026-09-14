@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T00:08:48.411Z",
+  "updated_at": "2026-09-14T01:08:48.412Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1011,
@@ -79,9 +79,15 @@
       ]
     },
     "Joga Sujin": {
-      "level": 766,
+      "level": 765,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-09-14T00:43:30.000Z",
+          "level": 766,
+          "killed_by": "icecold book",
+          "reason": "Died at Level 766 by icecold book"
+        },
         {
           "time": "2026-09-07T21:54:25.000Z",
           "level": 749,
