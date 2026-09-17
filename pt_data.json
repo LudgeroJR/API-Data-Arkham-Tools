@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T22:08:48.435Z",
+  "updated_at": "2026-09-17T23:08:48.436Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1013,
@@ -107,6 +107,12 @@
       "vocation": "Royal Paladin",
       "deaths": [
         {
+          "time": "2026-09-17T23:07:37.000Z",
+          "level": 852,
+          "killed_by": "boar man",
+          "reason": "Died at Level 852 by boar man"
+        },
+        {
           "time": "2026-09-07T21:54:22.000Z",
           "level": 831,
           "killed_by": "infernal demon",
@@ -159,12 +165,6 @@
           "level": 804,
           "killed_by": "the scourge of oblivion",
           "reason": "Died at Level 804 by the scourge of oblivion"
-        },
-        {
-          "time": "2026-08-24T16:25:52.000Z",
-          "level": 788,
-          "killed_by": "boar man",
-          "reason": "Died at Level 788 by boar man"
         }
       ]
     }
