@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T12:08:48.444Z",
+  "updated_at": "2026-09-19T13:08:48.445Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1015,
@@ -69,12 +69,6 @@
           "level": 861,
           "killed_by": "true midnight asura",
           "reason": "Died at Level 861 by true midnight asura"
-        },
-        {
-          "time": "2026-08-19T23:25:03.000Z",
-          "level": 860,
-          "killed_by": "bone bear",
-          "reason": "Died at Level 860 by bone bear"
         }
       ]
     },
