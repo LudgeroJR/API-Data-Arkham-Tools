@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T12:08:48.452Z",
+  "updated_at": "2026-09-20T13:08:48.452Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1016,
@@ -63,12 +63,6 @@
           "level": 864,
           "killed_by": "squid warden",
           "reason": "Died at Level 864 by squid warden"
-        },
-        {
-          "time": "2026-08-20T17:59:08.000Z",
-          "level": 861,
-          "killed_by": "true midnight asura",
-          "reason": "Died at Level 861 by true midnight asura"
         }
       ]
     },
