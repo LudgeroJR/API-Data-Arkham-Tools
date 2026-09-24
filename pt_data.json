@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T00:08:48.474Z",
+  "updated_at": "2026-09-24T01:08:48.475Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1018,
+      "level": 1019,
       "vocation": "Elite Knight",
       "deaths": []
     },
@@ -41,6 +41,12 @@
       "vocation": "Exalted Monk",
       "deaths": [
         {
+          "time": "2026-09-24T00:34:20.000Z",
+          "level": 911,
+          "killed_by": "noxious ripptor",
+          "reason": "Died at Level 911 by noxious ripptor"
+        },
+        {
           "time": "2026-09-02T23:52:49.000Z",
           "level": 880,
           "killed_by": "squid warden",
@@ -61,7 +67,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 799,
+      "level": 804,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -91,7 +97,7 @@
       ]
     },
     "Andireb": {
-      "level": 861,
+      "level": 863,
       "vocation": "Royal Paladin",
       "deaths": [
         {
