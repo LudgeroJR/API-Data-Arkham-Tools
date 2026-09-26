@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-26T18:08:48.496Z",
+  "updated_at": "2026-09-26T19:08:48.497Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1020,
+      "level": 1021,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1051,
+      "level": 1054,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -67,7 +67,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 809,
+      "level": 811,
       "vocation": "Elder Druid",
       "deaths": [
         {
