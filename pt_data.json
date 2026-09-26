@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T12:08:48.494Z",
+  "updated_at": "2026-09-26T13:08:48.495Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1020,
@@ -63,12 +63,6 @@
           "level": 875,
           "killed_by": "the scourge of oblivion",
           "reason": "Died at Level 875 by the scourge of oblivion"
-        },
-        {
-          "time": "2026-08-26T20:46:23.000Z",
-          "level": 873,
-          "killed_by": "liodile",
-          "reason": "Died at Level 873 by liodile"
         }
       ]
     },
