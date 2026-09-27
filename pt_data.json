@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:08:48.504Z",
+  "updated_at": "2026-09-27T13:08:48.504Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1022,
@@ -57,12 +57,6 @@
           "level": 880,
           "killed_by": "squid warden",
           "reason": "Died at Level 880 by squid warden"
-        },
-        {
-          "time": "2026-08-28T01:24:11.000Z",
-          "level": 875,
-          "killed_by": "the scourge of oblivion",
-          "reason": "Died at Level 875 by the scourge of oblivion"
         }
       ]
     },
