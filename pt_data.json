@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-27T19:08:48.507Z",
+  "updated_at": "2026-09-27T20:08:48.507Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1023,
+      "level": 1024,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1059,
+      "level": 1058,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-09-27T19:18:16.000Z",
+          "level": 1059,
+          "killed_by": "noxious ripptor",
+          "reason": "Died at Level 1059 by noxious ripptor"
+        },
         {
           "time": "2026-09-10T00:30:53.000Z",
           "level": 1026,
@@ -37,7 +43,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 912,
+      "level": 914,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -67,9 +73,15 @@
       ]
     },
     "Joga Sujin": {
-      "level": 818,
+      "level": 819,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-09-27T19:28:33.000Z",
+          "level": 819,
+          "killed_by": "mantosaurus",
+          "reason": "Died at Level 819 by mantosaurus"
+        },
         {
           "time": "2026-09-22T23:57:05.000Z",
           "level": 795,
@@ -97,7 +109,7 @@
       ]
     },
     "Andireb": {
-      "level": 876,
+      "level": 879,
       "vocation": "Royal Paladin",
       "deaths": [
         {
