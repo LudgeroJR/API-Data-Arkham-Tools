@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:08:48.507Z",
+  "updated_at": "2026-09-27T23:08:48.507Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1025,
@@ -79,9 +79,15 @@
       ]
     },
     "Joga Sujin": {
-      "level": 825,
+      "level": 823,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-09-27T22:13:49.000Z",
+          "level": 825,
+          "killed_by": "sabretooth",
+          "reason": "Died at Level 825 by sabretooth"
+        },
         {
           "time": "2026-09-27T19:28:33.000Z",
           "level": 819,
