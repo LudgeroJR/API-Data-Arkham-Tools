@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:08:48.517Z",
+  "updated_at": "2026-09-28T13:08:48.517Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1025,
@@ -177,12 +177,6 @@
           "level": 812,
           "killed_by": "gloom maw",
           "reason": "Died at Level 812 by gloom maw"
-        },
-        {
-          "time": "2026-08-28T18:56:36.000Z",
-          "level": 806,
-          "killed_by": "adult goanna",
-          "reason": "Died at Level 806 by adult goanna"
         }
       ]
     }
