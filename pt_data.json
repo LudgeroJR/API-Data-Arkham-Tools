@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:08:48.529Z",
+  "updated_at": "2026-09-30T13:08:48.529Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1027,
@@ -183,12 +183,6 @@
           "level": 814,
           "killed_by": "icecold book",
           "reason": "Died at Level 814 by icecold book"
-        },
-        {
-          "time": "2026-08-30T22:48:17.000Z",
-          "level": 812,
-          "killed_by": "gloom maw",
-          "reason": "Died at Level 812 by gloom maw"
         }
       ]
     }
