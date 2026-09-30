@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:08:48.528Z",
+  "updated_at": "2026-09-30T01:08:48.529Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1027,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1059,
+      "level": 1060,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -55,7 +55,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 917,
+      "level": 918,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 828,
+      "level": 831,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     "Andireb": {
-      "level": 889,
+      "level": 891,
       "vocation": "Royal Paladin",
       "deaths": [
         {
