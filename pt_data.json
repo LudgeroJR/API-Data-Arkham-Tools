@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:08:48.537Z",
+  "updated_at": "2026-10-01T13:08:48.538Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1028,
@@ -45,12 +45,6 @@
           "level": 1028,
           "killed_by": "shrieking cry-stal",
           "reason": "Died at Level 1028 by shrieking cry-stal"
-        },
-        {
-          "time": "2026-08-31T23:03:06.000Z",
-          "level": 1019,
-          "killed_by": "squid warden",
-          "reason": "Died at Level 1019 by squid warden"
         }
       ]
     },
@@ -171,18 +165,6 @@
           "level": 818,
           "killed_by": "raubritter skirmisher",
           "reason": "Died at Level 818 by raubritter skirmisher"
-        },
-        {
-          "time": "2026-08-31T23:33:47.000Z",
-          "level": 813,
-          "killed_by": "field item",
-          "reason": "Died at Level 813 by field item"
-        },
-        {
-          "time": "2026-08-31T23:02:50.000Z",
-          "level": 814,
-          "killed_by": "icecold book",
-          "reason": "Died at Level 814 by icecold book"
         }
       ]
     }
