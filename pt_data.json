@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:08:48.544Z",
+  "updated_at": "2026-10-02T04:08:48.545Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1028,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1063,
+      "level": 1064,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 924,
+      "level": 925,
       "vocation": "Exalted Monk",
       "deaths": [
         {
