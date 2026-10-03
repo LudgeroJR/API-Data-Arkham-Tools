@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:08:48.553Z",
+  "updated_at": "2026-10-03T13:08:48.553Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1028,
@@ -75,12 +75,6 @@
           "level": 911,
           "killed_by": "noxious ripptor",
           "reason": "Died at Level 911 by noxious ripptor"
-        },
-        {
-          "time": "2026-09-02T23:52:49.000Z",
-          "level": 880,
-          "killed_by": "squid warden",
-          "reason": "Died at Level 880 by squid warden"
         }
       ]
     },
@@ -117,12 +111,6 @@
           "level": 749,
           "killed_by": "infernal demon",
           "reason": "Died at Level 749 by infernal demon"
-        },
-        {
-          "time": "2026-09-03T01:29:27.000Z",
-          "level": 734,
-          "killed_by": "burning book",
-          "reason": "Died at Level 734 by burning book"
         }
       ]
     },
