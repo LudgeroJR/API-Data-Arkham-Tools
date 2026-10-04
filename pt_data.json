@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:08:48.564Z",
+  "updated_at": "2026-10-04T13:08:48.564Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1029,
@@ -147,12 +147,6 @@
           "level": 826,
           "killed_by": "carnivostrich",
           "reason": "Died at Level 826 by carnivostrich"
-        },
-        {
-          "time": "2026-09-03T17:23:35.000Z",
-          "level": 818,
-          "killed_by": "raubritter skirmisher",
-          "reason": "Died at Level 818 by raubritter skirmisher"
         }
       ]
     }
