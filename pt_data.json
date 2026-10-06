@@ -1,4 +1,148 @@
 {
-  "updated_at": "2026-10-06T14:08:48.583Z",
-  "characters": {}
+  "updated_at": "2026-10-06T15:08:48.583Z",
+  "characters": {
+    "Ark Ludgero": {
+      "level": 1029,
+      "vocation": "Elite Knight",
+      "deaths": []
+    },
+    "King Flipz": {
+      "level": 1076,
+      "vocation": "Master Sorcerer",
+      "deaths": [
+        {
+          "time": "2026-09-28T23:59:45.000Z",
+          "level": 1059,
+          "killed_by": "sabretooth",
+          "reason": "Died at Level 1059 by sabretooth"
+        },
+        {
+          "time": "2026-09-27T20:59:35.000Z",
+          "level": 1059,
+          "killed_by": "headpecker",
+          "reason": "Died at Level 1059 by headpecker"
+        },
+        {
+          "time": "2026-09-27T19:18:16.000Z",
+          "level": 1059,
+          "killed_by": "noxious ripptor",
+          "reason": "Died at Level 1059 by noxious ripptor"
+        },
+        {
+          "time": "2026-09-10T00:30:53.000Z",
+          "level": 1026,
+          "killed_by": "stalking stalk",
+          "reason": "Died at Level 1026 by stalking stalk"
+        },
+        {
+          "time": "2026-09-07T22:59:39.000Z",
+          "level": 1027,
+          "killed_by": "icecold book",
+          "reason": "Died at Level 1027 by icecold book"
+        },
+        {
+          "time": "2026-09-07T19:40:16.000Z",
+          "level": 1028,
+          "killed_by": "shrieking cry-stal",
+          "reason": "Died at Level 1028 by shrieking cry-stal"
+        }
+      ]
+    },
+    "Monk Tunado": {
+      "level": 939,
+      "vocation": "Exalted Monk",
+      "deaths": [
+        {
+          "time": "2026-09-28T23:55:05.000Z",
+          "level": 917,
+          "killed_by": "fungosaurus",
+          "reason": "Died at Level 917 by fungosaurus"
+        },
+        {
+          "time": "2026-09-27T18:58:18.000Z",
+          "level": 914,
+          "killed_by": "shrieking cry-stal",
+          "reason": "Died at Level 914 by shrieking cry-stal"
+        },
+        {
+          "time": "2026-09-25T00:35:21.000Z",
+          "level": 913,
+          "killed_by": "mercurial menace",
+          "reason": "Died at Level 913 by mercurial menace"
+        },
+        {
+          "time": "2026-09-24T00:34:20.000Z",
+          "level": 911,
+          "killed_by": "noxious ripptor",
+          "reason": "Died at Level 911 by noxious ripptor"
+        }
+      ]
+    },
+    "Joga Sujin": {
+      "level": 850,
+      "vocation": "Elder Druid",
+      "deaths": [
+        {
+          "time": "2026-09-27T22:13:49.000Z",
+          "level": 825,
+          "killed_by": "sabretooth",
+          "reason": "Died at Level 825 by sabretooth"
+        },
+        {
+          "time": "2026-09-27T19:28:33.000Z",
+          "level": 819,
+          "killed_by": "mantosaurus",
+          "reason": "Died at Level 819 by mantosaurus"
+        },
+        {
+          "time": "2026-09-22T23:57:05.000Z",
+          "level": 795,
+          "killed_by": "mercurial menace",
+          "reason": "Died at Level 795 by mercurial menace"
+        },
+        {
+          "time": "2026-09-14T00:43:30.000Z",
+          "level": 766,
+          "killed_by": "icecold book",
+          "reason": "Died at Level 766 by icecold book"
+        },
+        {
+          "time": "2026-09-07T21:54:25.000Z",
+          "level": 749,
+          "killed_by": "infernal demon",
+          "reason": "Died at Level 749 by infernal demon"
+        }
+      ]
+    },
+    "Andireb": {
+      "level": 906,
+      "vocation": "Royal Paladin",
+      "deaths": [
+        {
+          "time": "2026-09-19T02:08:22.000Z",
+          "level": 856,
+          "killed_by": "mantosaurus",
+          "reason": "Died at Level 856 by mantosaurus"
+        },
+        {
+          "time": "2026-09-17T23:07:37.000Z",
+          "level": 852,
+          "killed_by": "boar man",
+          "reason": "Died at Level 852 by boar man"
+        },
+        {
+          "time": "2026-09-07T21:54:22.000Z",
+          "level": 831,
+          "killed_by": "infernal demon",
+          "reason": "Died at Level 831 by infernal demon"
+        },
+        {
+          "time": "2026-09-06T20:45:01.000Z",
+          "level": 829,
+          "killed_by": "mercurial menace",
+          "reason": "Died at Level 829 by mercurial menace"
+        }
+      ]
+    }
+  }
 }
