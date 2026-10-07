@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T12:08:48.592Z",
+  "updated_at": "2026-10-07T13:08:48.592Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1030,
@@ -147,12 +147,6 @@
           "level": 831,
           "killed_by": "infernal demon",
           "reason": "Died at Level 831 by infernal demon"
-        },
-        {
-          "time": "2026-09-06T20:45:01.000Z",
-          "level": 829,
-          "killed_by": "mercurial menace",
-          "reason": "Died at Level 829 by mercurial menace"
         }
       ]
     }
