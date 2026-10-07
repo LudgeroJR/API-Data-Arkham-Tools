@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T23:08:48.587Z",
+  "updated_at": "2026-10-07T00:08:48.587Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1029,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1076,
+      "level": 1077,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -53,6 +53,12 @@
       "vocation": "Exalted Monk",
       "deaths": [
         {
+          "time": "2026-10-06T23:48:22.000Z",
+          "level": 940,
+          "killed_by": "distorted phantom",
+          "reason": "Died at Level 940 by distorted phantom"
+        },
+        {
           "time": "2026-09-28T23:55:05.000Z",
           "level": 917,
           "killed_by": "fungosaurus",
@@ -82,6 +88,12 @@
       "level": 850,
       "vocation": "Elder Druid",
       "deaths": [
+        {
+          "time": "2026-10-06T23:24:27.000Z",
+          "level": 851,
+          "killed_by": "monk's apparition",
+          "reason": "Died at Level 851 by monk's apparition"
+        },
         {
           "time": "2026-09-27T22:13:49.000Z",
           "level": 825,
@@ -115,7 +127,7 @@
       ]
     },
     "Andireb": {
-      "level": 906,
+      "level": 907,
       "vocation": "Royal Paladin",
       "deaths": [
         {
