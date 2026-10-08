@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T12:08:48.595Z",
+  "updated_at": "2026-10-08T13:08:48.595Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1031,
@@ -33,18 +33,6 @@
           "level": 1026,
           "killed_by": "stalking stalk",
           "reason": "Died at Level 1026 by stalking stalk"
-        },
-        {
-          "time": "2026-09-07T22:59:39.000Z",
-          "level": 1027,
-          "killed_by": "icecold book",
-          "reason": "Died at Level 1027 by icecold book"
-        },
-        {
-          "time": "2026-09-07T19:40:16.000Z",
-          "level": 1028,
-          "killed_by": "shrieking cry-stal",
-          "reason": "Died at Level 1028 by shrieking cry-stal"
         }
       ]
     },
@@ -123,12 +111,6 @@
           "level": 766,
           "killed_by": "icecold book",
           "reason": "Died at Level 766 by icecold book"
-        },
-        {
-          "time": "2026-09-07T21:54:25.000Z",
-          "level": 749,
-          "killed_by": "infernal demon",
-          "reason": "Died at Level 749 by infernal demon"
         }
       ]
     },
@@ -153,12 +135,6 @@
           "level": 852,
           "killed_by": "boar man",
           "reason": "Died at Level 852 by boar man"
-        },
-        {
-          "time": "2026-09-07T21:54:22.000Z",
-          "level": 831,
-          "killed_by": "infernal demon",
-          "reason": "Died at Level 831 by infernal demon"
         }
       ]
     }
