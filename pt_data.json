@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T13:08:48.613Z",
+  "updated_at": "2026-10-10T14:08:48.613Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1032,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1088,
+      "level": 1089,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -31,9 +31,15 @@
       ]
     },
     "Monk Tunado": {
-      "level": 950,
+      "level": 949,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-10-10T13:52:56.000Z",
+          "level": 951,
+          "killed_by": "ink blob",
+          "reason": "Died at Level 951 by ink blob"
+        },
         {
           "time": "2026-10-07T23:59:55.000Z",
           "level": 941,
@@ -109,7 +115,7 @@
       ]
     },
     "Andireb": {
-      "level": 912,
+      "level": 913,
       "vocation": "Royal Paladin",
       "deaths": [
         {
