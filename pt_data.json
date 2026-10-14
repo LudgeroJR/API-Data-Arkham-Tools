@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:08:48.644Z",
+  "updated_at": "2026-10-14T13:08:48.645Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1035,
@@ -105,12 +105,6 @@
           "level": 795,
           "killed_by": "mercurial menace",
           "reason": "Died at Level 795 by mercurial menace"
-        },
-        {
-          "time": "2026-09-14T00:43:30.000Z",
-          "level": 766,
-          "killed_by": "icecold book",
-          "reason": "Died at Level 766 by icecold book"
         }
       ]
     },
