@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:08:48.670Z",
+  "updated_at": "2026-10-16T23:08:48.670Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1036,
@@ -7,9 +7,15 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1106,
+      "level": 1104,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-10-16T22:50:58.000Z",
+          "level": 1106,
+          "killed_by": "radicular totem",
+          "reason": "Died at Level 1106 by radicular totem"
+        },
         {
           "time": "2026-09-28T23:59:45.000Z",
           "level": 1059,
