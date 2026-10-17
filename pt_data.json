@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-17T13:08:48.676Z",
+  "updated_at": "2026-10-17T14:08:48.676Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1037,
+      "level": 1038,
       "vocation": "Elite Knight",
       "deaths": []
     },
     "King Flipz": {
-      "level": 1105,
+      "level": 1106,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 958,
+      "level": 960,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     "Andireb": {
-      "level": 926,
+      "level": 927,
       "vocation": "Royal Paladin",
       "deaths": [
         {
