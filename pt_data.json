@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:08:48.692Z",
+  "updated_at": "2026-10-19T13:08:48.692Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1039,
@@ -129,12 +129,6 @@
           "level": 909,
           "killed_by": "spellreaper inferniarch",
           "reason": "Died at Level 909 by spellreaper inferniarch"
-        },
-        {
-          "time": "2026-09-19T02:08:22.000Z",
-          "level": 856,
-          "killed_by": "mantosaurus",
-          "reason": "Died at Level 856 by mantosaurus"
         }
       ]
     }
