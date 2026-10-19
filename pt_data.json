@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T02:08:48.689Z",
+  "updated_at": "2026-10-19T03:08:48.689Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1039,
@@ -7,9 +7,15 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1109,
+      "level": 1107,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-10-19T02:08:54.000Z",
+          "level": 1109,
+          "killed_by": "many faces",
+          "reason": "Died at Level 1109 by many faces"
+        },
         {
           "time": "2026-10-16T22:50:58.000Z",
           "level": 1106,
