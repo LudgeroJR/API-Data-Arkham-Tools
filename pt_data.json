@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:08:48.715Z",
+  "updated_at": "2026-10-21T22:08:48.714Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1041,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1110,
+      "level": 1111,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     "Andireb": {
-      "level": 934,
+      "level": 936,
       "vocation": "Royal Paladin",
       "deaths": [
         {
