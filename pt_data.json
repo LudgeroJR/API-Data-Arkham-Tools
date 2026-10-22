@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:08:48.722Z",
+  "updated_at": "2026-10-22T23:08:48.722Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1041,
@@ -7,9 +7,15 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1112,
+      "level": 1110,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-10-22T22:43:46.000Z",
+          "level": 1112,
+          "killed_by": "mycobiontic beetle",
+          "reason": "Died at Level 1112 by mycobiontic beetle"
+        },
         {
           "time": "2026-10-19T02:08:54.000Z",
           "level": 1109,
