@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T12:08:48.726Z",
+  "updated_at": "2026-10-23T13:08:48.727Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1042,
@@ -117,12 +117,6 @@
           "level": 819,
           "killed_by": "mantosaurus",
           "reason": "Died at Level 819 by mantosaurus"
-        },
-        {
-          "time": "2026-09-22T23:57:05.000Z",
-          "level": 795,
-          "killed_by": "mercurial menace",
-          "reason": "Died at Level 795 by mercurial menace"
         }
       ]
     },
