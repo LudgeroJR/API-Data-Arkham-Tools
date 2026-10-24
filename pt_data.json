@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:08:48.729Z",
+  "updated_at": "2026-10-24T13:08:48.730Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1042,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1113,
+      "level": 1114,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -87,12 +87,6 @@
           "level": 913,
           "killed_by": "mercurial menace",
           "reason": "Died at Level 913 by mercurial menace"
-        },
-        {
-          "time": "2026-09-24T00:34:20.000Z",
-          "level": 911,
-          "killed_by": "noxious ripptor",
-          "reason": "Died at Level 911 by noxious ripptor"
         }
       ]
     },
