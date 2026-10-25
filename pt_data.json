@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:08:48.740Z",
+  "updated_at": "2026-10-25T13:08:48.740Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1042,
@@ -7,7 +7,7 @@
       "deaths": []
     },
     "King Flipz": {
-      "level": 1115,
+      "level": 1116,
       "vocation": "Master Sorcerer",
       "deaths": [
         {
@@ -81,12 +81,6 @@
           "level": 914,
           "killed_by": "shrieking cry-stal",
           "reason": "Died at Level 914 by shrieking cry-stal"
-        },
-        {
-          "time": "2026-09-25T00:35:21.000Z",
-          "level": 913,
-          "killed_by": "mercurial menace",
-          "reason": "Died at Level 913 by mercurial menace"
         }
       ]
     },
