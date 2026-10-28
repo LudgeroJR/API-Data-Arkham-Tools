@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-28T00:05:26.343Z",
+  "updated_at": "2026-10-28T01:05:26.344Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1044,
+      "level": 1045,
       "vocation": "Elite Knight",
       "deaths": []
     },
@@ -91,7 +91,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 866,
+      "level": 867,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -115,7 +115,7 @@
       ]
     },
     "Andireb": {
-      "level": 947,
+      "level": 948,
       "vocation": "Royal Paladin",
       "deaths": [
         {
