@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:05:26.350Z",
+  "updated_at": "2026-10-28T13:05:26.350Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1045,
@@ -33,23 +33,11 @@
           "level": 1059,
           "killed_by": "sabretooth",
           "reason": "Died at Level 1059 by sabretooth"
-        },
-        {
-          "time": "2026-09-27T20:59:35.000Z",
-          "level": 1059,
-          "killed_by": "headpecker",
-          "reason": "Died at Level 1059 by headpecker"
-        },
-        {
-          "time": "2026-09-27T19:18:16.000Z",
-          "level": 1059,
-          "killed_by": "noxious ripptor",
-          "reason": "Died at Level 1059 by noxious ripptor"
         }
       ]
     },
     "Monk Tunado": {
-      "level": 969,
+      "level": 970,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -81,12 +69,6 @@
           "level": 917,
           "killed_by": "fungosaurus",
           "reason": "Died at Level 917 by fungosaurus"
-        },
-        {
-          "time": "2026-09-27T18:58:18.000Z",
-          "level": 914,
-          "killed_by": "shrieking cry-stal",
-          "reason": "Died at Level 914 by shrieking cry-stal"
         }
       ]
     },
@@ -99,18 +81,6 @@
           "level": 851,
           "killed_by": "monk's apparition",
           "reason": "Died at Level 851 by monk's apparition"
-        },
-        {
-          "time": "2026-09-27T22:13:49.000Z",
-          "level": 825,
-          "killed_by": "sabretooth",
-          "reason": "Died at Level 825 by sabretooth"
-        },
-        {
-          "time": "2026-09-27T19:28:33.000Z",
-          "level": 819,
-          "killed_by": "mantosaurus",
-          "reason": "Died at Level 819 by mantosaurus"
         }
       ]
     },
