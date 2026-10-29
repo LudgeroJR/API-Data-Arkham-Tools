@@ -1,4 +1,88 @@
 {
-  "updated_at": "2026-10-29T14:05:26.361Z",
-  "characters": {}
+  "updated_at": "2026-10-29T15:05:26.361Z",
+  "characters": {
+    "Ark Ludgero": {
+      "level": 1045,
+      "vocation": "Elite Knight",
+      "deaths": []
+    },
+    "King Flipz": {
+      "level": 1122,
+      "vocation": "Master Sorcerer",
+      "deaths": [
+        {
+          "time": "2026-10-22T22:43:46.000Z",
+          "level": 1112,
+          "killed_by": "mycobiontic beetle",
+          "reason": "Died at Level 1112 by mycobiontic beetle"
+        },
+        {
+          "time": "2026-10-19T02:08:54.000Z",
+          "level": 1109,
+          "killed_by": "many faces",
+          "reason": "Died at Level 1109 by many faces"
+        },
+        {
+          "time": "2026-10-16T22:50:58.000Z",
+          "level": 1106,
+          "killed_by": "radicular totem",
+          "reason": "Died at Level 1106 by radicular totem"
+        }
+      ]
+    },
+    "Monk Tunado": {
+      "level": 971,
+      "vocation": "Exalted Monk",
+      "deaths": [
+        {
+          "time": "2026-10-25T22:02:51.000Z",
+          "level": 964,
+          "killed_by": "boar man",
+          "reason": "Died at Level 964 by boar man"
+        },
+        {
+          "time": "2026-10-10T13:52:56.000Z",
+          "level": 951,
+          "killed_by": "ink blob",
+          "reason": "Died at Level 951 by ink blob"
+        },
+        {
+          "time": "2026-10-07T23:59:55.000Z",
+          "level": 941,
+          "killed_by": "many faces",
+          "reason": "Died at Level 941 by many faces"
+        },
+        {
+          "time": "2026-10-06T23:48:22.000Z",
+          "level": 940,
+          "killed_by": "distorted phantom",
+          "reason": "Died at Level 940 by distorted phantom"
+        }
+      ]
+    },
+    "Joga Sujin": {
+      "level": 868,
+      "vocation": "Elder Druid",
+      "deaths": [
+        {
+          "time": "2026-10-06T23:24:27.000Z",
+          "level": 851,
+          "killed_by": "monk's apparition",
+          "reason": "Died at Level 851 by monk's apparition"
+        }
+      ]
+    },
+    "Andireb": {
+      "level": 950,
+      "vocation": "Royal Paladin",
+      "deaths": [
+        {
+          "time": "2026-10-08T01:51:43.000Z",
+          "level": 909,
+          "killed_by": "spellreaper inferniarch",
+          "reason": "Died at Level 909 by spellreaper inferniarch"
+        }
+      ]
+    }
+  }
 }
