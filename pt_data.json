@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T18:05:26.368Z",
+  "updated_at": "2026-10-30T19:05:26.368Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1050,
@@ -31,9 +31,15 @@
       ]
     },
     "Monk Tunado": {
-      "level": 972,
+      "level": 970,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-10-30T18:17:36.000Z",
+          "level": 972,
+          "killed_by": "vesperon bloodrictus",
+          "reason": "Died at Level 972 by vesperon bloodrictus"
+        },
         {
           "time": "2026-10-30T02:33:21.000Z",
           "level": 972,
