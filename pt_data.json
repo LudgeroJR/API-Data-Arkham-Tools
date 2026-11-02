@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-02T16:05:26.390Z",
+  "updated_at": "2026-11-02T17:05:26.390Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1054,
+      "level": 1055,
       "vocation": "Elite Knight",
       "deaths": []
     },
@@ -85,7 +85,7 @@
       ]
     },
     "Andireb": {
-      "level": 954,
+      "level": 955,
       "vocation": "Royal Paladin",
       "deaths": [
         {
