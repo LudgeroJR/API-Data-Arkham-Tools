@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T22:55:47.796Z",
+  "updated_at": "2026-11-09T23:55:47.796Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1070,
+      "level": 1071,
       "vocation": "Elite Knight",
       "deaths": [
         {
@@ -38,7 +38,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 999,
+      "level": 1000,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -74,7 +74,7 @@
       ]
     },
     "Joga Sujin": {
-      "level": 897,
+      "level": 898,
       "vocation": "Elder Druid",
       "deaths": [
         {
@@ -86,7 +86,7 @@
       ]
     },
     "Andireb": {
-      "level": 977,
+      "level": 978,
       "vocation": "Royal Paladin",
       "deaths": []
     }
