@@ -1,4 +1,100 @@
 {
-  "updated_at": "2026-11-12T15:23:02.810Z",
-  "characters": {}
+  "updated_at": "2026-11-12T16:23:02.810Z",
+  "characters": {
+    "Ark Ludgero": {
+      "level": 1075,
+      "vocation": "Elite Knight",
+      "deaths": [
+        {
+          "time": "2026-11-08T20:35:31.000Z",
+          "level": 1071,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1071 by branchy crawler"
+        }
+      ]
+    },
+    "King Flipz": {
+      "level": 1140,
+      "vocation": "Master Sorcerer",
+      "deaths": [
+        {
+          "time": "2026-11-10T00:09:07.000Z",
+          "level": 1136,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1136 by branchy crawler"
+        },
+        {
+          "time": "2026-10-22T22:43:46.000Z",
+          "level": 1112,
+          "killed_by": "mycobiontic beetle",
+          "reason": "Died at Level 1112 by mycobiontic beetle"
+        },
+        {
+          "time": "2026-10-19T02:08:54.000Z",
+          "level": 1109,
+          "killed_by": "many faces",
+          "reason": "Died at Level 1109 by many faces"
+        },
+        {
+          "time": "2026-10-16T22:50:58.000Z",
+          "level": 1106,
+          "killed_by": "radicular totem",
+          "reason": "Died at Level 1106 by radicular totem"
+        }
+      ]
+    },
+    "Monk Tunado": {
+      "level": 1003,
+      "vocation": "Exalted Monk",
+      "deaths": [
+        {
+          "time": "2026-11-11T23:21:32.000Z",
+          "level": 1004,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1004 by branchy crawler"
+        },
+        {
+          "time": "2026-11-07T18:43:01.000Z",
+          "level": 990,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 990 by branchy crawler"
+        },
+        {
+          "time": "2026-10-30T18:17:36.000Z",
+          "level": 972,
+          "killed_by": "vesperon bloodrictus",
+          "reason": "Died at Level 972 by vesperon bloodrictus"
+        },
+        {
+          "time": "2026-10-30T02:33:21.000Z",
+          "level": 972,
+          "killed_by": "bonecrusher",
+          "reason": "Died at Level 972 by bonecrusher"
+        },
+        {
+          "time": "2026-10-25T22:02:51.000Z",
+          "level": 964,
+          "killed_by": "boar man",
+          "reason": "Died at Level 964 by boar man"
+        }
+      ]
+    },
+    "Joga Sujin": {
+      "level": 905,
+      "vocation": "Elder Druid",
+      "deaths": [
+        {
+          "time": "2026-11-07T19:49:08.000Z",
+          "level": 889,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 889 by branchy crawler"
+        }
+      ]
+    },
+    "Andireb": {
+      "level": 986,
+      "vocation": "Royal Paladin",
+      "deaths": []
+    }
+  }
 }
