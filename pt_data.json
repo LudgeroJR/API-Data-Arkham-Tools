@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T23:23:02.812Z",
+  "updated_at": "2026-11-13T00:23:02.812Z",
   "characters": {
     "Ark Ludgero": {
-      "level": 1075,
+      "level": 1076,
       "vocation": "Elite Knight",
       "deaths": [
         {
@@ -44,7 +44,7 @@
       ]
     },
     "Monk Tunado": {
-      "level": 1003,
+      "level": 1004,
       "vocation": "Exalted Monk",
       "deaths": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     "Andireb": {
-      "level": 986,
+      "level": 987,
       "vocation": "Royal Paladin",
       "deaths": []
     }
