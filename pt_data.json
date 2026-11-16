@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:23:02.835Z",
+  "updated_at": "2026-11-16T13:23:02.835Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1085,
@@ -34,12 +34,6 @@
           "level": 1109,
           "killed_by": "many faces",
           "reason": "Died at Level 1109 by many faces"
-        },
-        {
-          "time": "2026-10-16T22:50:58.000Z",
-          "level": 1106,
-          "killed_by": "radicular totem",
-          "reason": "Died at Level 1106 by radicular totem"
         }
       ]
     },
