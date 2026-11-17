@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:23:02.839Z",
+  "updated_at": "2026-11-17T23:23:02.839Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1087,
@@ -86,9 +86,16 @@
       ]
     },
     "Andireb": {
-      "level": 996,
+      "level": 995,
       "vocation": "Royal Paladin",
-      "deaths": []
+      "deaths": [
+        {
+          "time": "2026-11-17T23:09:37.000Z",
+          "level": 996,
+          "killed_by": "hazardous phantom",
+          "reason": "Died at Level 996 by hazardous phantom"
+        }
+      ]
     }
   }
 }
