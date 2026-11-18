@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T12:23:02.844Z",
+  "updated_at": "2026-11-18T13:23:02.844Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1087,
@@ -28,12 +28,6 @@
           "level": 1112,
           "killed_by": "mycobiontic beetle",
           "reason": "Died at Level 1112 by mycobiontic beetle"
-        },
-        {
-          "time": "2026-10-19T02:08:54.000Z",
-          "level": 1109,
-          "killed_by": "many faces",
-          "reason": "Died at Level 1109 by many faces"
         }
       ]
     },
