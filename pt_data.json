@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T19:23:02.850Z",
+  "updated_at": "2026-11-20T20:23:02.851Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1090,
@@ -50,9 +50,15 @@
       ]
     },
     "Monk Tunado": {
-      "level": 1013,
+      "level": 1011,
       "vocation": "Exalted Monk",
       "deaths": [
+        {
+          "time": "2026-11-20T19:59:40.000Z",
+          "level": 1013,
+          "killed_by": "field item",
+          "reason": "Died at Level 1013 by field item"
+        },
         {
           "time": "2026-11-11T23:21:32.000Z",
           "level": 1004,
