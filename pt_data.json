@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T18:23:02.849Z",
+  "updated_at": "2026-11-20T19:23:02.850Z",
   "characters": {
     "Ark Ludgero": {
       "level": 1090,
@@ -20,9 +20,15 @@
       ]
     },
     "King Flipz": {
-      "level": 1153,
+      "level": 1151,
       "vocation": "Master Sorcerer",
       "deaths": [
+        {
+          "time": "2026-11-20T19:07:50.000Z",
+          "level": 1153,
+          "killed_by": "cloak of terror",
+          "reason": "Died at Level 1153 by cloak of terror"
+        },
         {
           "time": "2026-11-20T17:59:24.000Z",
           "level": 1155,
