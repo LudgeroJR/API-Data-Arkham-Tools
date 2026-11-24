@@ -1,4 +1,143 @@
 {
-  "updated_at": "2026-11-24T19:59:21.220Z",
-  "characters": {}
+  "updated_at": "2026-11-24T20:59:21.221Z",
+  "characters": {
+    "Ark Ludgero": {
+      "level": 1099,
+      "vocation": "Elite Knight",
+      "deaths": [
+        {
+          "time": "2026-11-20T17:53:28.000Z",
+          "level": 1092,
+          "killed_by": "mirror image",
+          "reason": "Died at Level 1092 by mirror image"
+        },
+        {
+          "time": "2026-11-08T20:35:31.000Z",
+          "level": 1071,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1071 by branchy crawler"
+        }
+      ]
+    },
+    "King Flipz": {
+      "level": 1153,
+      "vocation": "Master Sorcerer",
+      "deaths": [
+        {
+          "time": "2026-11-24T00:54:56.000Z",
+          "level": 1154,
+          "killed_by": "goshnar's megalomania",
+          "reason": "Died at Level 1154 by goshnar's megalomania"
+        },
+        {
+          "time": "2026-11-20T19:07:50.000Z",
+          "level": 1153,
+          "killed_by": "cloak of terror",
+          "reason": "Died at Level 1153 by cloak of terror"
+        },
+        {
+          "time": "2026-11-20T17:59:24.000Z",
+          "level": 1155,
+          "killed_by": "distorted phantom",
+          "reason": "Died at Level 1155 by distorted phantom"
+        },
+        {
+          "time": "2026-11-10T00:09:07.000Z",
+          "level": 1136,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1136 by branchy crawler"
+        }
+      ]
+    },
+    "Monk Tunado": {
+      "level": 1012,
+      "vocation": "Exalted Monk",
+      "deaths": [
+        {
+          "time": "2026-11-24T01:00:30.000Z",
+          "level": 1013,
+          "killed_by": "goshnar's megalomania",
+          "reason": "Died at Level 1013 by goshnar's megalomania"
+        },
+        {
+          "time": "2026-11-20T19:59:40.000Z",
+          "level": 1013,
+          "killed_by": "field item",
+          "reason": "Died at Level 1013 by field item"
+        },
+        {
+          "time": "2026-11-11T23:21:32.000Z",
+          "level": 1004,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 1004 by branchy crawler"
+        },
+        {
+          "time": "2026-11-07T18:43:01.000Z",
+          "level": 990,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 990 by branchy crawler"
+        },
+        {
+          "time": "2026-10-30T18:17:36.000Z",
+          "level": 972,
+          "killed_by": "vesperon bloodrictus",
+          "reason": "Died at Level 972 by vesperon bloodrictus"
+        },
+        {
+          "time": "2026-10-30T02:33:21.000Z",
+          "level": 972,
+          "killed_by": "bonecrusher",
+          "reason": "Died at Level 972 by bonecrusher"
+        },
+        {
+          "time": "2026-10-25T22:02:51.000Z",
+          "level": 964,
+          "killed_by": "boar man",
+          "reason": "Died at Level 964 by boar man"
+        }
+      ]
+    },
+    "Joga Sujin": {
+      "level": 911,
+      "vocation": "Elder Druid",
+      "deaths": [
+        {
+          "time": "2026-11-20T17:59:08.000Z",
+          "level": 912,
+          "killed_by": "distorted phantom",
+          "reason": "Died at Level 912 by distorted phantom"
+        },
+        {
+          "time": "2026-11-20T17:53:27.000Z",
+          "level": 914,
+          "killed_by": "distorted phantom",
+          "reason": "Died at Level 914 by distorted phantom"
+        },
+        {
+          "time": "2026-11-07T19:49:08.000Z",
+          "level": 889,
+          "killed_by": "branchy crawler",
+          "reason": "Died at Level 889 by branchy crawler"
+        }
+      ]
+    },
+    "Andireb": {
+      "level": 1002,
+      "vocation": "Royal Paladin",
+      "deaths": [
+        {
+          "time": "2026-11-23T23:14:40.000Z",
+          "level": 1003,
+          "killed_by": "courage leech",
+          "reason": "Died at Level 1003 by courage leech"
+        },
+        {
+          "time": "2026-11-17T23:09:37.000Z",
+          "level": 996,
+          "killed_by": "hazardous phantom",
+          "reason": "Died at Level 996 by hazardous phantom"
+        }
+      ]
+    }
+  }
 }
